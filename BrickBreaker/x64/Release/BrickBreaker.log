@@ -1,0 +1,24 @@
+﻿  ball.cpp
+  board.cpp
+  brick.cpp
+  game.cpp
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.h(33,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.h(72,28): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.cpp(105,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.cpp(111,10): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.cpp(112,10): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.cpp(113,10): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.cpp(535,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.cpp(545,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.cpp(878,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.cpp(879,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.h(33,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\game.h(72,28): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  powerups.cpp
+C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\BrickBreaker\powerups.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 691 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BrickBreaker.vcxproj -> C:\Users\thano\Desktop\AUEB_projects\2nd year\Computer Programming in C++\BrickBreaker\bin\BrickBreaker.exe
